@@ -21,7 +21,7 @@ A curated list of awesome Libra ecosystem.
 
 On the 18th of June 2019 the social network Facebook announced the first branded cryptocurrency project — Libra. It is a "reliable digital currency and global financial infrastructure" based on blockchain technology that will allow billions of users to make financial transactions around the world. We have gathered the most interesting facts. The information is below.
 
-- Libra Blockchain - what does it mean?
+- **Libra Blockchain - what does it mean?**
 
 > The Libra Blockchain is a decentralized, programmable database designed to support a low-volatility cryptocurrency that will have the ability to serve as an efficient medium of exchange for billions of people around the world.
 > Libra should open the way for everyone to interact with money (including for their transfer around the world). The main objective of the project is to create an infrastructure that allows to make a truly global tool for mutual settlements, which would combine the following qualities:
@@ -30,17 +30,17 @@ On the 18th of June 2019 the social network Facebook announced the first branded
 >   - ease of use;
 >   - availability.
 
-- What is tech side of the project?
+- **What is tech side of the project?**
 
 > The Libra Blockchain will be based on open source principles under the Apache 2.0 license.
 
 > It is also known, that during the construction of the project system it was used a new programming language — Move. With its help, smart contracts will be created in the Libra blockchain. Running on a Proof-of-Stake (PoS) blockchain with a 2-token system, this new financial infrastructure will rely on the BFT-consensus algorithm and will support smart-contracts after it completes its transition from a permissioned to a permissionless environment.
 
-- What is Token Name?
+- **What is Token Name?**
 
 > Initially, there was the information from the BBC that there were discussions about the name GlobalCoin, however, later the TechCrunch Agency announced that the coin will be called Libra. Additional prove might be the fact that Facebook has registered in Switzerland a financial and technical company called LibraNetworks.
 
-- What special features has Libra coin?
+- **What special features has Libra coin?**
 
 > Libra Coin will be presented as a stable coin and connected with the common fiat currency basket. According to the developers, the Libra cryptocurrency consists of three main technical solutions:
 >   - Its blockchain (built from scratch), provides a high level of security, and is quite scalable.
@@ -51,35 +51,35 @@ On the 18th of June 2019 the social network Facebook announced the first branded
 
 > In addition to Libra, a security token called Libra Investment Token will be launched. It will be used to Finance incentive programs and cover transaction costs. Libra Investment Token will be available only to accredited investors and will allow its holders to earn a percentage of cryptocurrency reserves.
 
-- Who will be in the project?
+- **Who will be in the project?**
 
 > Originally the project will be based on Facebook Network. However, Instagram and What’sApp platforms will also participate.
 
-- When the project will be launched?
+- **When the project will be launched?**
 
 > The working version of the Facebook blockchain is planned to be launched in 2020. This information has also been confirmed for several times by a variety of sources, including Facebook itself. So far, the payment method is available to Facebook itself and 27 corporate partners of the project. Among them are Visa, Mastercard, Uber, Spotify and other well-known companies. Facebook users will be able to pay Libra from 2020.
 
-- Where can I buy the Libra Coin?
+- **Where can I buy the Libra Coin?**
 
 > According to the official sources, the coins will be available through many Apps. Moreover, it is planned to develop the possibility to buy the coin through special ATMs.
 
-- Exchange Rates
+- **Exchange Rates**
 
 > At first, Libra will not have a fixed exchange rate to the Dollar, Euro and other traditional fiat currencies, but in the future the developers intend to avoid sharp strong fluctuations, from which even the most famous cryptocurrency on the planet — bitcoin.
 
-- Exchange Fees
+- **Exchange Fees**
 
 > Facebook does not plan to earn on cryptocurrency — the payment system has no commission, and the company will pay users for operations with cryptocurrency.
 
-- Do I need a special wallet and what is Calibri?
+- **Do I need a special wallet and what is Calibri?**
 
 > In the first half of 2020 (during this period, it is planned to launch the mainnet project), users will receive a wallet for working with cryptocurrency, which will be called Calibra. Facebook promises that Calibra will be released as a standalone app for iOS and Android, as well as integrated into the company's existing platforms, including WhatsApp and Messenger. It is known that the use of the application will require the identification of the user with an identity document.
 
-- What about Decentralization?
+- **What about Decentralization?**
 
 > There is the internal discussion that the units will be closed by the server-validator in a quantity of 100 pieces. The owners of such nodes may be third parties, but there is one caveat: it will be necessary to make a modest steak of $10 million.
 
-- Libra Blockchain Partners - who are they?
+- **Libra Blockchain Partners - who are they?**
 
 > Currently, there are 27 key Libra Blockchain Partners. They are presented on the picture. By the time Libra is launched for a wide audience — it is scheduled for 2020 — Facebook expects that there would be at least 100 partners.
 Among the large companies that have not yet joined the project — the "big four" leaders of the technology industry - Apple, Google, Amazon and Microsoft. Also there is no banks in the Association.
