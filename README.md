@@ -107,7 +107,8 @@ However, the research shows that the main Facebook's audience is aging steadily 
 3. [Libra White Paper](https://libra.org/en-US/white-paper/)
 4. [Libra on GitHub](https://github.com/libra/libra)
 5. [Facebook Libra Coin developer talks (Telegram Group)](https://t.me/LibraCoinDev)
-6. [Libra Introduction Video](https://youtu.be/V-rqaQGP1BY)
+6. [Libra Devs on Discord](https://discord.gg/dZyenBj)
+7. [Libra Introduction Video](https://youtu.be/V-rqaQGP1BY)
 8. [The Libra Blockchain](https://developers.libra.org/docs/the-libra-blockchain-paper)
 
 ## Resources:
